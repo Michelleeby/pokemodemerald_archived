@@ -1,8 +1,13 @@
-<!--- Provide a general summary of your changes in the Title above -->
+# 👋 PR Title
 
-## Description
-<!--- Describe your changes in detail -->
+📝 PR Description
 
-## **Discord contact info**
-<!--- formatted as name#numbers, e.g. PikalaxALT#5823 -->
-<!--- Contributors must join https://discord.gg/d5dubZ3 -->
+## Features
+
+- [ ] ...
+- [ ] ...
+
+## Bug Fixes
+
+- [ ] ...
+- [ ] ...
